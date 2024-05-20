@@ -1,0 +1,89 @@
+/* Tajawal */
+@font-face {
+  font-family: "Tajawal Bold";
+  src: url('Tajawal/Tajawal-Bold.ttf');
+}
+
+@font-face {
+  font-family: "Tajawal Extra Bold";
+  src: url('Tajawal/Tajawal-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: "Tajawal Black";
+  src: url('Tajawal/Tajawal-Black.ttf');
+}
+
+
+@font-face {
+  font-family: "Tajawal Light";
+  src: url('Tajawal/Tajawal-Light.ttf');
+}
+
+@font-face {
+  font-family: "Tajawal Extra Light";
+  src: url('Tajawal/Tajawal-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: "Tajawal Medium";
+  src: url('Tajawal/Tajawal-Medium.ttf');
+}
+
+@font-face {
+  font-family: "Tajawal Regular";
+  src: url('Tajawal/Tajawal-Regular.ttf');
+}
+
+
+/* GE-SS Two*/
+@font-face {
+  font-family: "GE-SS Two Bold";
+  src: url('GE-SS/GE-SS-Two-Bold.ttf');
+}
+
+@font-face {
+  font-family: "GE-SS Two Light";
+  src: url('GE-SS/GE-SS-Two-Light.ttf');
+}
+
+
+@font-face {
+  font-family: "GE-SS Two Medium";
+  src: url('GE-SS/GE-SS-Two-Medium.ttf');
+}
+
+@font-face {
+  font-family: "GE-SS Two Regular";
+  src: url('GE-SS/GE-SS-Two-Light.ttf');
+  font-weight: 200;
+}
+
+/*poppins*/
+
+@font-face {
+  font-family: "Poppins Regular";
+  src: url('Poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Poppins Bold";
+  src: url('Poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+  font-family: "Poppins Light";
+  src: url('Poppins/Poppins-Light.ttf');
+}
+
+@font-face {
+  font-family: "Poppins Medium";
+  src: url('Poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+  font-family: "Poppins Black";
+  src: url('Poppins/Poppins-Black.ttf');
+}
+
+

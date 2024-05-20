@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+h2{
+    color:rgb(150, 31, 31);
+}
+button{
+    background: yellow;
+    color: black;
+}
+section{
+    width: 50%;
+    float: left;
+    display: inline;
+    background: red;
+}
+itecoderight{
+    width: 50%;
+    float: right;
+    display: inline;
+    background: blue;
+}

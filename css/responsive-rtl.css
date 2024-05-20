@@ -1,0 +1,54 @@
+/* large Layout: 1441px. */
+
+@media only screen and (min-width: 1441px){
+
+	.desktop-view{display: block;}
+	.mobile-view{display: none;}	
+
+}
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+
+	.desktop-view{display: block;}
+	.mobile-view{display: none;}
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+	.desktop-view{display: block;}
+	.mobile-view{display: none;}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	.desktop-view{display: none;}
+	.mobile-view{display: block;}
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+	.desktop-view{display: none;}
+	.mobile-view{display: block;}
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.desktop-view{display: none;}
+	.mobile-view{display: block;}
+}
+
+@media only screen and (max-width: 768px) {
+
+  .desktop-view{display: none !important;}
+  .mobile-view{display: block !important;}
+
+}
